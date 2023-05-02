@@ -12,7 +12,7 @@ Uma vez que foi construído no Google Colaboratory, para executar o código é n
 
 ## Acessar Código
 
-O código está presente na pasta "Código" e é possível acessá-lo clicando no arquivo TCC_AMAZON_Renê.ipynb. Para fazer uma cópia e executá-lo, siga os passos abaixo:
+O código está presente na pasta "Código" e é possível acessá-lo e baixá-lo clicando no arquivo TCC_AMAZON_Renê.ipynb e depois em download. Para fazer uma cópia e executá-lo, siga os passos abaixo:
 
 1. Para acessar o código, navegue para https://colab.research.google.com/drive/1234U3EqzVSfPVKRDBX9jkltpbJvHInIQ?usp=sharing e faça o login em sua conta google, caso ainda não esteja conectado.
 2. Depois que o novo Notebook abrir no ambiente Google Colaboratory, salve uma cópia no seu Drive clicando em "Copy to Drive"
@@ -23,3 +23,4 @@ O código está presente na pasta "Código" e é possível acessá-lo clicando n
 
 ## Acessar Monografia
 
+A monografia pode ser acessada entrando na pasta "Monografia" e depois no arquivo "TCC_Rene.pdf". Outra maneira de acessar é pelo Goole Documentos, seguindo os passos abaixo:
