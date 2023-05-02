@@ -12,7 +12,7 @@ Uma vez que foi construído no Google Colaboratory, para executar o código é n
 
 ## Primeiros passos
 
-1. Para acessar o código, acesse https://colab.research.google.com/drive/1234U3EqzVSfPVKRDBX9jkltpbJvHInIQ?usp=sharing e faça o login em sua conta google, caso ainda não esteja conectado.
+1. Para acessar o código, navegue para https://colab.research.google.com/drive/1234U3EqzVSfPVKRDBX9jkltpbJvHInIQ?usp=sharing e faça o login em sua conta google, caso ainda não esteja conectado.
 2. Depois que o novo Notebook abrir no ambiente Google Colaboratory, salve uma cópia no seu Drive clicando em "Copy to Drive"
 ![image](https://user-images.githubusercontent.com/96728526/235564021-f105cd16-aeb9-4ab4-a4a2-ae46b38ef9cc.png)
 3. Para executar, navegue até o menu Runtime e escolha a opção que desejar ou pressione Crtl+F9 para executar tudo.
