@@ -10,7 +10,9 @@ Este repositório contém o código fonte do Trabalho de Conclusão de Curso (TC
 
 Uma vez que foi construído no Google Colaboratory, para executar o código é necessário apenas ter uma conta Google e seguir os passos descritos abaixo.
 
-## Primeiros passos
+## Acessar Código
+
+O código está presente na pasta "Código" e é possível acessá-lo clicando no arquivo TCC_AMAZON_Renê.ipynb. Para fazer uma cópia e executá-lo, siga os passos abaixo:
 
 1. Para acessar o código, navegue para https://colab.research.google.com/drive/1234U3EqzVSfPVKRDBX9jkltpbJvHInIQ?usp=sharing e faça o login em sua conta google, caso ainda não esteja conectado.
 2. Depois que o novo Notebook abrir no ambiente Google Colaboratory, salve uma cópia no seu Drive clicando em "Copy to Drive"
@@ -19,4 +21,5 @@ Uma vez que foi construído no Google Colaboratory, para executar o código é n
 ![image](https://user-images.githubusercontent.com/96728526/235564154-1797d352-b3ad-4b41-8370-92ce5290b177.png)
 4. Pronto, você executou o código, aproveite!
 
+## Acessar Monografia
 
