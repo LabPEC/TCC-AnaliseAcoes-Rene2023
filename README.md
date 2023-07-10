@@ -18,4 +18,4 @@ O código está presente na pasta "Código" e é possível acessá-lo e baixá-l
 
 ## Acessar Monografia
 
-A monografia pode ser acessada entrando na pasta "Monografia". Outra maneira de acessar é pelo Goole Documentos navegando para "https://docs.google.com/document/d/1frL-Sbs3kLA4GYZbCWCqotmla7JLlS2MHyBh8kFKUdw/edit?usp=sharing" (faça o login em sua conta google, caso ainda não esteja conectado).
+A monografia pode ser acessada navegando para "https://www.overleaf.com/read/zdjrqxrtbcrz".
