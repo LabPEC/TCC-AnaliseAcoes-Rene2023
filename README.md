@@ -1,9 +1,4 @@
 # TCC-AnaliseAcoes-Rene2023
-
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
 Este repositório contém o código fonte do Trabalho de Conclusão de Curso (TCC) em Análise de Dados do aluno Renê, realizado no laboratório de Pesquisa em Ciência de Dados (LabPEC) da Universidade Federal do Espírito Santo.
 
 ## Pré-requisitos
